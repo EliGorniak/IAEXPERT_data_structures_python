@@ -3,7 +3,7 @@
     Python Data Structures & Algoritms Course 
 </h1>
 
-![picture alt](python-basics.jpg "python") 
+![picture alt](python-datastructures.jpg "python") 
 
 ---
 
